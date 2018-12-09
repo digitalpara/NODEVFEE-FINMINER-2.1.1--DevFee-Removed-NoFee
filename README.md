@@ -8,7 +8,7 @@ Once devfee mining is triggered it will mine to your address. To make sure every
 
 How will I know this is working?
 
-Check mining logs for any "devfee" text or "eth_submitLogin" text. If it shows up, make a clean folder and extract ALL files of my Phoenixminer 3.0.A there then try again! Does this work for future releases of phoenixminer ? No, I will manually update future phoenixminer releases.
+Check mining logs for any "devfee" text or "eth_submitLogin" text. If it shows up, make a clean folder and extract ALL files of my FINMINER-2.4.5 there then try again! Does this work for future releases of phoenixminer ? No, I will manually update future FINMINER-2.4.5 releases.
 
 Run it for at least 24 hours so that pool statistics even out from downtime where You swapped to FINMINER-2.1.1 No Fee
 
