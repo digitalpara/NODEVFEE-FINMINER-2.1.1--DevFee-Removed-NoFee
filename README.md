@@ -1,8 +1,8 @@
-# NODEVFEE-FINMINER-2.1.1--DevFee-Removed-NoFee
-NODEVFEE-FINMINER-2.1.1-DevFee-Removed - Auto Start first nodevfee then Finminer Ethereum Classic
+# NODEVFEE-FINMINER-2.4.5--DevFee-Removed-NoFee
+NODEVFEE-FINMINER-2.4.5-DevFee-Removed - Auto Start first nodevfee then Finminer Ethereum Classic
 
 
-Auto Start first nodevfee then FINMINER-2.1.1 Ethereum Classic just start nodevfee and then mining software FINMINER-2.1.1.
+Auto Start first nodevfee then FINMINER-2.4.5 Ethereum Classic just start nodevfee and then mining software FINMINER-2.1.1.
 
 Once devfee mining is triggered it will mine to your address. To make sure everything is working properly.
 
@@ -12,7 +12,7 @@ Check mining logs for any "devfee" text or "eth_submitLogin" text. If it shows u
 
 Run it for at least 24 hours so that pool statistics even out from downtime where You swapped to FINMINER-2.1.1 No Fee
 
-Tips ETH : FINMINER-2.1.1 Ethereum Classic
+Tips ETH : FINMINER-2.4.5 Ethereum Classic
 
 FINMINER-2.1.1 Ethereum Classic Miner No Fee
 
